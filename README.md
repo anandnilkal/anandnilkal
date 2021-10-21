@@ -30,6 +30,11 @@
 </a>
 </p>
 
+### Current Streak
+
+<p align="left">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anandnilkal&theme=onedark" alt="AnandKumarIlkal" />
+</p>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=anandnilkal&theme=juicyfresh&no-bg=true" />
 <!--
@@ -46,3 +51,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--------------------------------------------------------------------------------------------------------------------------------------------
+Credit: [anandnilkal](https://github.com/anandnilkal)
+
+Last Edited on: 21/10/2021
