@@ -1,8 +1,7 @@
-### Hi there 👋
-
 <p align="left">
-<img src="https://img.shields.io/badge/Age-37-blue" />
-  <img src="https://img.shields.io/badge/Focus-Developer%20go,%20python-brightgreen" />
+  <img src="https://img.shields.io/badge/Name-Anand%20Kumar%20Ilkal-blue" />
+  <img src="https://img.shields.io/badge/Age-37-blue" />
+  <img src="https://img.shields.io/badge/Focus-go,%20python-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Bengaluru-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Kannada-brightgreen" />
 </p>
@@ -11,6 +10,9 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
